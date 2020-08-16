@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-##Ezequiel Gomes Lopes :man_technologist:
+# Ezequiel Gomes Lopes :man_technologist:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Ezequiel_Lopes?label=Linkedin&logo=linkedin&style=social)
+
+
+### Helloo!!! 👋👋  Welcome to my profile
+
+My name is Ezequiel and ...:
+
+- 😄 I really am passionate about learning new programming tools and skills.
+- 📚 I am currently studying to improve my Skills with Frameworks, Servlets, JPA and different integrations for Web.
+- 🌍 and i like to Travel
+
+
