@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+##Ezequiel Gomes Lopes :man_technologist
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Ezequiel_Lopes?label=Linkedin&logo=linkedin&style=social)
