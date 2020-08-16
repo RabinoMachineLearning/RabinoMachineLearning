@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-##Ezequiel Gomes Lopes :man_technologist
+##Ezequiel Gomes Lopes :man_technologist:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Ezequiel_Lopes?label=Linkedin&logo=linkedin&style=social)
