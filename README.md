@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/twitter/follow/Ezequiel_Lopes?label=Linkedin&logo=linkedin&style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/Ezequiel_Lopes?label=Linkedin&logo=linkedin&style=social)
