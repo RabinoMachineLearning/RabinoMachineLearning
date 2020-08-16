@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 My name is Ezequiel and ...:
 
 - 😄 I really am passionate about learning new programming tools and skills.
-- 📚 I am currently studying to improve my Skills with Frameworks, Servlets, JPA and different integrations for Web.
+- 📚 I am currently studying to improve my Skills with Frameworks, Servlets, JPA, JSF and different integrations for Web.
 - 🌍 and i like to Travel
 
 
